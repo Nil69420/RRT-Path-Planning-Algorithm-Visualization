@@ -5,13 +5,13 @@
 </div>
 
 <p align="left">
-  <img width="460" height="300" src="images/pien.png">
+  <img width="460" height="300" src="images/pien.PNG">
 </p>
 
 * Python execution
 
 <p align="left">
-  <img width="460" height="300" src="images/pienpien.png">
+  <img width="460" height="300" src="images/pienpien.PNG">
 </p>
 
 * C++ Execution
